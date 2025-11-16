@@ -1,7 +1,6 @@
 ## Hi, I'm Kenny Damgren 👋
 
-Web developer based in Västerås, Sweden, building modern **JavaScript/TypeScript** apps with a strong focus on **React**, **TanStack**, and great DX.  
-Earlier in my career I lived in the **PHP** world, working with **DDD**, **CQRS**, and **event sourcing** – that background still shapes how I think about domains, boundaries, and long‑term maintainability.
+Web developer based in Västerås, Sweden, building modern **JavaScript/TypeScript** apps with a strong focus on **React**, **TanStack**, and great DX. Earlier in my career I lived in the **PHP** world, working with **DDD**, **CQRS**, and **event sourcing** – that background still shapes how I think about domains, boundaries, and long‑term maintainability.
 
 I enjoy turning real product ideas into working software – from polished UIs to well‑structured domains, APIs, and workflows that are easy to reason about and evolve.
 
@@ -9,7 +8,7 @@ I enjoy turning real product ideas into working software – from polished UIs t
 
 ### What I love building
 
-- **TanStack ecosystem apps** – fullstack setups with TanStack Start, Router, Query, DB, and Form working together with React 19.2 + React Compiler.
+- **TanStack ecosystem apps** – fullstack setups with TanStack Start, Router, Query, DB, and Form working together with React 19 + React Compiler.
 - **Fullstack TypeScript apps** – from API design and data modeling to clean, fast UIs and dashboards.
 - **E‑commerce & internal tools** – admin areas and custom backoffice tools that support real businesses.
 - **AI‑flavored experiences** – thoughtful use of AI to improve UX and developer workflows, not just sprinkle buzzwords.
@@ -19,10 +18,10 @@ I enjoy turning real product ideas into working software – from polished UIs t
 
 ### Tech stack
 
-- **Core**: TypeScript · React 19.2 · React Compiler 1.0 · Bun  
+- **Core**: TypeScript · React 19+ · React Compiler · Bun  
 - **TanStack**: Start · DB · Router · Query · Form · Devtools  
 - **Backend & data**: PostgreSQL · Drizzle ORM · Better Auth · pg-boss · Resend  
-- **UI**: Tailwind CSS v4 · shadcn/ui · Radix UI · Lucide  
+- **UI**: Tailwind CSS v4 · shadcn/ui
 - **Tooling & testing**: Vite · Vitest · Biome + Ultracite  
 - **AI & automation**: Model‑driven workflows for faster iteration and exploration  
 - **Background (PHP era)**: Custom e‑commerce systems · API integrations · DDD/CQRS/event‑sourced apps · small frameworks like [Sody](https://github.com/kegren/sody)
