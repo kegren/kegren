@@ -22,7 +22,8 @@ I enjoy turning real product ideas into working software – from polished UIs t
 - **TanStack**: Start · DB · Router · Query · Form · Devtools  
 - **Backend & data**: PostgreSQL · Drizzle ORM · Better Auth · pg-boss · Resend  
 - **UI**: Tailwind CSS v4 · shadcn/ui
-- **Tooling & testing**: Vite · Vitest · Biome + Ultracite  
+- **Tooling & testing**: Vite · Vitest · Biome + Ultracite
+- **Hosting**: Cloudflare · Vercel · Railway · VPS  
 - **AI & automation**: Model‑driven workflows for faster iteration and exploration  
 - **Background (PHP era)**: Custom e‑commerce systems · API integrations · DDD/CQRS/event‑sourced apps · small frameworks like [Sody](https://github.com/kegren/sody)
 
@@ -32,7 +33,7 @@ I enjoy turning real product ideas into working software – from polished UIs t
 
 - **tano-stack** – A TanStack Start starter that puts the TanStack ecosystem (Router, Query, Form, Devtools) front and center on Bun + React 19.2, with a modern UI and production‑ready structure.
 - **Sody** – [A small, flexible PHP framework](https://github.com/kegren/sody) from my earlier PHP days – a good snapshot of how much I enjoy designing APIs and framework internals.
-- **Kemero work** – Custom web and e‑commerce projects where I’ve helped clients go from idea to production with tailored solutions instead of one‑size‑fits‑all templates.
+- **Kemero** – Custom web and e‑commerce projects where I’ve helped clients go from idea to production with tailored solutions instead of one‑size‑fits‑all templates.
 
 ---
 
