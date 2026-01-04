@@ -1,63 +1,87 @@
-## Hi, I'm Kenny Damgren 👋
+<div>
 
-Web developer based in Västerås, Sweden, building modern **JavaScript/TypeScript** apps with a strong focus on **React**, **TanStack**, and great DX. Earlier in my career I lived in the **PHP** world, working with **DDD**, **CQRS**, and **event sourcing** – that background still shapes how I think about domains, boundaries, and long‑term maintainability.
+# Good to see you! I'm Kenny. 😊
 
-I enjoy turning real product ideas into working software – from polished UIs to well‑structured domains, APIs, and workflows that are easy to reason about and evolve.
+<span style="color: #666; font-size: 14px;">Full-stack Developer · Founder of <a href="https://kemero.se" style="color: #6366f1; text-decoration: none;">kemero</a></span>
 
----
+<span style="color: #888; font-size: 15px; margin-top: 8px; display: block;">Crafting production-ready web experiences with TypeScript, React & TanStack</span>
 
-### What I love building
+<div style="margin-top: 16px; display: flex; gap: 20px; font-size: 14px;">
+  <a href="https://kegren.dev" style="color: #6366f1; text-decoration: none;">kegren.dev</a>
+  <a href="https://twitter.com/kegren" style="color: #888; text-decoration: none;">@kegren</a>
+</div>
 
-- **TanStack ecosystem apps** – fullstack setups with TanStack Start, Router, Query, DB, and Form working together with React 19 + React Compiler.
-- **Fullstack TypeScript apps** – from API design and data modeling to clean, fast UIs and dashboards.
-- **E‑commerce & internal tools** – admin areas and custom backoffice tools that support real businesses.
-- **AI‑flavored experiences** – thoughtful use of AI to improve UX and developer workflows, not just sprinkle buzzwords.
-- **Nice developer experiences** – fast feedback loops, strong typing, and clear boundaries between domains.
+</div>
 
----
+<div style="border-top: 1px solid #e0e0e0; margin: 32px 0 24px;"></div>
 
-### Tech stack
+## About
 
-- **Core**: TypeScript · React 19+ · React Compiler · Bun  
-- **TanStack**: Start · DB · Router · Query · Form · Devtools  
-- **Backend & data**: PostgreSQL · Drizzle ORM · Better Auth · pg-boss · Resend  
-- **UI**: Tailwind CSS v4 · shadcn/ui
-- **Tooling & testing**: Vite · Vitest · Biome + Ultracite
-- **Hosting**: Cloudflare · Vercel · Railway · VPS  
-- **AI & automation**: Model‑driven workflows for faster iteration and exploration  
-- **Background (PHP era)**: Custom e‑commerce systems · API integrations · DDD/CQRS/event‑sourced apps · small frameworks like [Sody](https://github.com/kegren/sody)
+I'm a developer from Sweden who enjoys crafting the web. I founded **[kemero](https://kemero.se)** to build digital experiences with care and thought. My toolkit of choice is TanStack Start, TypeScript, and React—building things that are practical, resilient, and ready for the real world.
 
 ---
 
-### Projects
+## Currently
 
-- **tano-stack** – A TanStack Start starter that puts the TanStack ecosystem (Router, Query, Form, Devtools) front and center on Bun + React 19.2, with a modern UI and production‑ready structure.
-- **Sody** – [A small, flexible PHP framework](https://github.com/kegren/sody) from my earlier PHP days – a good snapshot of how much I enjoy designing APIs and framework internals.
-- **Kemero** – Custom web and e‑commerce projects where I’ve helped clients go from idea to production with tailored solutions instead of one‑size‑fits‑all templates.
+**Building**  
+[tano-stack](https://github.com/kegren/tano-stack) and custom web apps for kemero clients
 
----
+**Exploring**  
+AI workflows with n8n automation and OpenRouter
 
-### How I like to work
+**Pushing**  
+React 19 + TanStack patterns to make the web more powerful and accessible
 
-- **Type‑safe by default** – strong TypeScript and schema validation instead of “hope it passes in production.”
-- **Domain‑focused** – bringing DDD thinking (and, when it fits, CQRS/event sourcing) to keep complex domains understandable.
-- **Production‑minded** – migrations, background processing, and observability; not just pretty frontends.
-- **Clean architecture, not over‑engineering** – clear separation between routing, data, and UI, always in service of shipping.
-- **User & dev friendly** – good UX for users and good DX for whoever maintains the code (often future‑me).
+**Committed to**  
+Building full-stack apps that make the web a better place
 
 ---
 
-### Find me
+## What I Build
 
-- **Website / portfolio**: [kegren.dev](https://kegren.dev)
-- **GitHub**: [@kegren](https://github.com/kegren)
-- **X (Twitter)**: [@kegren](https://twitter.com/kegren)
+Full-stack applications with modern technologies — from polished user interfaces to robust APIs and databases.
+
+<div style="margin-top: 12px;">
+  <strong>Maintaining:</strong> <a href="https://github.com/kegren/tano-stack">tano-stack</a> · production-ready starter template
+</div>
 
 ---
 
-### Currently
+## Tech Stack
 
-- 🔭 Building: fullstack apps and starter templates with **TanStack Start + Bun + TypeScript**.
-- 🧠 Refining: modern React patterns, React Compiler workflows, and how TanStack pieces fit together in real products.
-- 🤖 Exploring: how AI can enhance both the user experience and the developer experience without taking over the whole app.
-- ☕ Enjoying: strong coffee, good DX, and the occasional side‑project that my kids think is cooler than I do.
+| | |
+|:---|:---|
+| **Core** | TypeScript · React 19 · Bun |
+| **TanStack** | Start · Router · Query · DB · Form |
+| **Backend** | PostgreSQL · Drizzle · Better Auth |
+| **UI** | Tailwind CSS · shadcn/ui |
+| **Tools** | Vite · Vitest · Biome · Ultracite |
+| **AI** | AI SDK · TanStack AI · OpenRouter |
+| **Hosting** | Railway · Cloudflare |
+| **CI/CD** | GitHub Actions |
+| **Automation** | n8n · Greptile |
+| **Email** | useSend · Resend · AWS SES |
+| **Queue** | pg-boss |
+| **Monitoring** | Uptime Kuma |
+
+---
+
+## Daily Tools
+
+| | |
+|:---|:---|
+| **Editor** | Cursor · OpenCode · Sublime Text |
+| **Terminal** | Ghostty |
+| **Secrets** | Doppler |
+| **Git** | GitButler |
+| **Database** | Dataflare |
+| **AI** | MiniMax · Gemini · Claude |
+
+---
+
+## Connect
+
+<div style="display: flex; gap: 20px; font-size: 14px;">
+  <a href="https://kegren.dev" style="color: #6366f1;">kegren.dev</a>
+  <a href="https://twitter.com/kegren" style="color: #888;">@kegren</a>
+</div>
