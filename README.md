@@ -5,8 +5,6 @@
 ### Senior Software Engineer
 **Engineering scalable applications with architectural depth.**
 
-<span style="color: #888; font-size: 15px; margin-top: 8px; display: block;">Crafting production-ready web experiences with TypeScript, React & TanStack</span>
-
 <div style="margin-top: 16px; display: flex; gap: 20px; font-size: 14px;">
   <a href="https://kegren.com" style="color: #6366f1; text-decoration: none;">kegren.com</a>
   <a href="https://x.com/kegren" style="color: #888; text-decoration: none;">@kegren</a>
@@ -40,21 +38,11 @@ Building full-stack apps that make the web a better place
 
 ---
 
-## What I Build
-
-Full-stack applications with modern technologies — from polished user interfaces to robust APIs and databases.
-
-<div style="margin-top: 12px;">
-  <strong>Maintaining:</strong> <a href="https://github.com/kegren/tano-stack">tano-stack</a> · production-ready starter template
-</div>
-
----
-
 ## Tech Stack
 
 | | |
 |:---|:---|
-| **Core** | TypeScript · React 19 · Bun |
+| **Core** | TypeScript · React · Bun |
 | **TanStack** | Start · Router · Query · DB · Form |
 | **Backend** | PostgreSQL · Drizzle · Better Auth |
 | **UI** | Tailwind CSS · shadcn/ui |
@@ -73,7 +61,7 @@ Full-stack applications with modern technologies — from polished user interfac
 
 | | |
 |:---|:---|
-| **Editor** | Cursor · OpenCode · Sublime Text |
+| **Editor** | Cursor · OpenCode · Antigravity |
 | **Terminal** | Ghostty |
 | **Secrets** | Doppler |
 | **Git** | GitButler |
@@ -85,6 +73,6 @@ Full-stack applications with modern technologies — from polished user interfac
 ## Connect
 
 <div style="display: flex; gap: 20px; font-size: 14px;">
-  <a href="https://kegren.dev" style="color: #6366f1;">kegren.dev</a>
+  <a href="https://kegren.com" style="color: #6366f1;">kegren.com</a>
   <a href="https://twitter.com/kegren" style="color: #888;">@kegren</a>
 </div>
