@@ -1,14 +1,15 @@
 <div>
 
-# Good to see you! I'm Kenny. 😊
+# Hi, I'm Kenny. 👋
 
-<span style="color: #666; font-size: 14px;">Full-stack Developer · Founder of <a href="https://kemero.se" style="color: #6366f1; text-decoration: none;">kemero</a></span>
+### Senior Software Engineer
+**Engineering scalable applications with architectural depth.**
 
 <span style="color: #888; font-size: 15px; margin-top: 8px; display: block;">Crafting production-ready web experiences with TypeScript, React & TanStack</span>
 
 <div style="margin-top: 16px; display: flex; gap: 20px; font-size: 14px;">
-  <a href="https://kegren.dev" style="color: #6366f1; text-decoration: none;">kegren.dev</a>
-  <a href="https://twitter.com/kegren" style="color: #888; text-decoration: none;">@kegren</a>
+  <a href="https://kegren.com" style="color: #6366f1; text-decoration: none;">kegren.com</a>
+  <a href="https://x.com/kegren" style="color: #888; text-decoration: none;">@kegren</a>
 </div>
 
 </div>
@@ -17,7 +18,9 @@
 
 ## About
 
-I'm a developer from Sweden who enjoys crafting the web. I founded **[kemero](https://kemero.se)** to build digital experiences with care and thought. My toolkit of choice is TanStack Start, TypeScript, and React—building things that are practical, resilient, and ready for the real world.
+I am a Senior Engineer based in Sweden with **10+ years of experience**. My background is rooted in strict backend architecture (PHP, DDD, CQRS), and today I apply that same engineering rigor to the modern frontend ecosystem.
+
+I don't just write React components; I build systems. My goal is to bridge the gap between complex business logic and high-performance user interfaces.
 
 ---
 
