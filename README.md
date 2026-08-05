@@ -7,5 +7,5 @@ Based in Västerås, Sweden. Two daughters, one very opinionated dog, a lot of T
 
 **Reach me**
 - 🌐 [kemero.io](https://kemero.io)
-- 📫 kenny@kemero.io
+- 📫 kenny@kegren.com
 - 𝕏 [@kegren](https://x.com/kegren)
